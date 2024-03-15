@@ -1,0 +1,3 @@
+En grupp om fem studenter har under kursen Automation på Umeå universitet automatiserat en segelbåt i modellskala. Mycket av grupparbetet är orienterat kring automation och programvara. Där Codesys och Python använts. Mjukvarans främsta uppgift är att reglera segel och roder efter förutsättningar mot önskad riktning, detta utförs med RC-servon. Detta projekt utfördes vintertid vilket utesluter möjlighet för test i vatten. Genom test i torr testrigg så kontrollerade reglersystemet roder och segel på ett sådant vis att autonom segling kan vara möjlig med använda komponenter.  
+
+Gruppen ifrånsäger sig ansvar för den Python-kod som finns beskriven på Github. All test sker på egen risk.
