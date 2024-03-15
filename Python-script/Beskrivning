@@ -1,1 +1,3 @@
-Alla pythonscript måste laddas ner i en och samma mapp. Sedan startas programmet genom med "Mainscript" som importerar resterande script
+Alla pythonscript måste laddas ner i en och samma mapp. 
+
+Därefter startas programmet genom att köra "Mainscript", som i sin tur importerar resterande script.
