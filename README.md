@@ -5,4 +5,4 @@ Valet av segelbåt byggde på att dess komplexitet anses vara på en rimlig niv�
 
 Autonom segling kräver relativt avancerad teknik för att exempelvis kunna kryssa, en utmaning gruppen upplevde sig redo för då den består av fem personer.
 
-Gruppen ifrånsäger sig ansvar för den Python-kod som finns beskriven på Github. All test sker på egen risk.
+Gruppen ifrånsäger sig ansvar för den Python-kod som finns beskriven på Github. All användning av koderna sker på egen risk.
